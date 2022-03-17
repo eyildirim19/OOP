@@ -4,7 +4,7 @@
 using _11_Polymorphism_1;
 
 
-Console.WriteLine("****************VIRTUAL ÜYELER*******************")
+Console.WriteLine("****************VIRTUAL ÜYELER*******************");
 
 Kus k = new Kus();
 k.Tur = "Serçe";
